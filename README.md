@@ -9,5 +9,9 @@ Za razliku od Space Invaders-a, u igrici Pigeon Invaders je omogućen rad sa 2 i
 
 Realizacija projekta Pigeon Invaders je izvršena korišćenjem Python jezika, multiprocessing biblioteke i PyQt5 okvira.
 
+Zahtev izrade programa je napisan u fajlu **T3 - Space Invaders.pdf**
+
+Detaljniji opis o samom projektu dostupan je u okviru fajla **Dokumentacija.pdf**
+
 
  
